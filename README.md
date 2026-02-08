@@ -29,5 +29,3 @@ error management, and scheduled execution.
 
 ---
 
-## 📂 Project Structure
-
