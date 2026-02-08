@@ -1,0 +1,5 @@
+2026-02-08 22:55:02,685 - ERROR - API request failed: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError("HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 11001] getaddrinfo failed)"))
+2026-02-08 22:55:14,078 - ERROR - API request failed: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError("HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 11001] getaddrinfo failed)"))
+2026-02-08 22:55:15,290 - ERROR - API request failed: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError("HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 11001] getaddrinfo failed)"))
+2026-02-08 22:57:38,989 - WARNING - ALERT! Price crossed threshold: 70509.0
+2026-02-08 22:57:51,166 - WARNING - ALERT! Price crossed threshold: 70509.0
